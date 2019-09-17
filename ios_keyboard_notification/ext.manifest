@@ -1,0 +1,9 @@
+name: "ios_keyboard_notification"
+
+platforms:
+    arm64-ios:
+        context:
+            linkFlags:  ["-ObjC"]
+    armv7-ios:
+        context:
+            linkFlags:  ["-ObjC"]
