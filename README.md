@@ -7,6 +7,12 @@ Read more about the underlying API here:
 - [Managing the Keyboard](https://developer.apple.com/library/archive/documentation/StringsTextFonts/Conceptual/TextAndWebiPhoneOS/KeyboardManagement/KeyboardManagement.html#//apple_ref/doc/uid/TP40009542-CH5-SW3)
 - [UIKeyboardWillShowNotification](https://developer.apple.com/documentation/uikit/uikeyboardwillshownotification?language=objc)
 
+# Project Settings
+
+Add this URL to the dependencies section in `game.project`.
+
+- `https://github.com/Lerg/extension-ios_keyboard_notification/archive/master.zip`
+
 # API reference
 
 ## ios_keyboard_notification.init(params)
